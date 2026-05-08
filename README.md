@@ -22,7 +22,7 @@ This web app tests how quick you are off the grid 🟢💨
 
 ## 🚀 Live Demo
 
-**[Play Now!](https://f1-race-reaction-speed-2n9jr7rs9-22l31a54a9-2497s-projects.vercel.app)** - Test your F1 reaction speed
+**[Play Now!](https://f1-race-reaction-speed-git-ver-1d8bc6-22l31a54a9-2497s-projects.vercel.app/)** - Test your F1 reaction speed
 
 ## 🛠️ Tech Stack
 
